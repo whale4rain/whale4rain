@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi!👋
+Here is whale
 <!--
 **whale4rain/whale4rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

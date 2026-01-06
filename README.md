@@ -1,6 +1,6 @@
 ## Hi!👋
-Here is whale \
-Here is rain🌧️ 
+**Here is whale** \
+**Here is rain**      🌧️ 
 
 I'm currently working on backend development. \
 Looking for something interesting.

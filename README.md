@@ -2,9 +2,8 @@
 Here is whale
 Here is rain🌧️
 
----
-
-Focused on backend development, and exploring other areas of programming that interset me.
+I'm currently working on backend development.
+Looking for something interesting.
 
 <!--
 **whale4rain/whale4rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
